@@ -1,0 +1,2 @@
+# codealpha-_Smart-Student-Collaboration-Project-Management
+Smart Student Collaboration &amp; Project Management is a platform designed to help students collaborate on academic projects, manage tasks, track project progress, share resources, and improve team productivity. It simplifies teamwork by organizing project activities, assigning responsibilities, and enabling effective communication among team members.
